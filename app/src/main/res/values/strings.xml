@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="placeholder_num1">Digite o primeiro número</string>
+    <string name="placeholder_num2">Digite o segundo número</string>
+    <string name="placeholder_result">Resultado</string>
+    <string name="placeholder_btnsoma">+</string>
+    <string name="placeholder_btnsub">-</string>
+    <string name="placeholder_btnmult">x</string>
+    <string name="placeholder_btndiv">/</string>
+</resources>
